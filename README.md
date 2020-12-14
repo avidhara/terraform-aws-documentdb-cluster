@@ -1,3 +1,4 @@
+![Static security analysis for Terraform](https://github.com/foss-cafe/terraform-aws-documentdb-cluster/workflows/Static%20security%20analysis%20for%20Terraform/badge.svg)
 # Terraform module for AWS DocumentDB Cluster
 
 To know how to use please refer to `examples` folder  
