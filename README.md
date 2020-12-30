@@ -1,3 +1,4 @@
+![Static security analysis for Terraform](https://github.com/foss-cafe/terraform-aws-documentdb-cluster/workflows/Static%20security%20analysis%20for%20Terraform/badge.svg)
 # Terraform module for AWS DocumentDB Cluster
 
 To know how to use please refer to `examples` folder  
@@ -67,7 +68,7 @@ To know how to use please refer to `examples` folder
 | subnet\_group\_id | ID of the DocumentDB cluster Security Group |
 
 <!-- END OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
+
 ## License
 
 Apache 2 Licensed. See LICENSE for full details.
-
